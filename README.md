@@ -1,3 +1,6 @@
+[I believe in center aligned 🤲]: #
+
+<div align="center">
 # Hi there, I'm Ricardo Ledezma 👋
 ### Systems Engineer | IT & OT Specialist | Lean Six Sigma Green Belt
 
