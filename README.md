@@ -54,16 +54,15 @@ I am a **Systems Engineer** with over **5 years of hybrid experience** bridging 
 
 ---
 
-## 🏆 Key Certifications
+## 🏆 Key Certifications and Courses
 
 | Certification | Issuer | Year |
 | :--- | :--- | :--- |
 | **Solidworks Design Professional (CSWP)** | Dassault Systèmes | 2026 |
-| **Data Analyst Associate** | DataCamp | 2025 |
+| **Data Analyst Associate Course** | DataCamp | 2025 |
 | **Lean Six Sigma Green Belt** | Variexa | 2025 |
-| **Power BI Advanced** | Global Tech Academy | 2025 |
-| **Google IT Support Professional** | Google | 2023 |
-| **Scrum Foundation Professional (SFPC)** | CertiProf | 2023 |
+| **Power BI Advanced Course** | Global Tech Academy | 2025 |
+| **Google IT Support Professional** | Google and Coursera | 2023 |
 
 *(Plus numerous certifications in Lean Manufacturing Bronze/Silver/Gold, Java, Python, and Cisco Networking)*
 
