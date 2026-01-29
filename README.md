@@ -5,9 +5,8 @@
 <div id="header">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 </div>
-### Hi there, I'm Ricardo Ledezma 👋
+# Hi there, I'm Ricardo Ledezma 👋
 ### Systems Engineer | IT & OT Specialist | Lean Six Sigma Green Belt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricardo-ledezma-sanchez-1847b9167)
 [![GrabCAD](https://img.shields.io/badge/GrabCAD-Portfolio-red?style=for-the-badge&logo=grabcad)](https://www.grabcad.com/ricardo.ledezma-3)
