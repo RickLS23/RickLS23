@@ -1,4 +1,4 @@
-# Hi there, I'm Ricardo Ledezma 👋
+# Hi there, I'm Ricardo Ledezma <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 ### Computer Systems Engineer | IT & OT (Manufacturing) Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ricardo-ledezma-sanchez-1847b9167)
