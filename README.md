@@ -9,7 +9,6 @@
 </div>
 ### Hi there, I'm Ricardo Ledezma 👋
 ### Systems Engineer | IT & OT Specialist | Lean Six Sigma Green Belt
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricardo-ledezma-sanchez-1847b9167)
 [![GrabCAD](https://img.shields.io/badge/GrabCAD-Portfolio-red?style=for-the-badge&logo=grabcad)](https://www.grabcad.com/ricardo.ledezma-3)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-teal?style=for-the-badge&logo=gmail)](mailto:rledsanchez@gmail.com)
