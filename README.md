@@ -29,6 +29,7 @@ I don't just write code; I use technology to **optimize industrial processes**, 
 ![SAP ABAP](https://img.shields.io/badge/-SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![HTML/CSS/JS](https://img.shields.io/badge/-Web%20Dev-E34F26?style=flat&logo=html5&logoColor=white)
 
+
 ### 🏭 Engineering & Manufacturing (OT)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?style=flat&logo=solidworks&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/-Lean%20Six%20Sigma-green?style=flat&logo=leaf&logoColor=white)
@@ -52,9 +53,9 @@ My technical profile is backed by international certifications validating both m
 | **Engineering** | SolidWorks Associate (CSWA) | Dassault Systèmes (2022) |
 | **Quality** | **Lean Six Sigma Green Belt** | Variexa PTO (2025) |
 | **Quality** | Lean Bronze/Silver/Gold Expert | Variexa PTO (2024) |
-| **Data** | Data Analyst Associate | DataCamp (2025) |
-| **Data** | Advanced Power BI | Global Tecnologías Academy (2025) |
-| **IT** | SAP ABAP & Generative AI | Logali / SAP (2023-2024) |
+| **Data** | Data Analyst Associate Course| DataCamp (2025) |
+| **Data** | Advanced Power BI Course | Global Tecnologías Academy (2025) |
+| **IT** | SAP ABAP & Generative AI Course | Logali / SAP (2023-2024) |
 
 ---
 
