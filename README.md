@@ -41,7 +41,7 @@ I am a **Systems Engineer** with over **5 years of hybrid experience** bridging 
 ## 💼 Professional Experience Highlights
 
 ### **Auxiliary in Systems & Manufacturing** | *Corporación Industrial HERSA*
-*2019 - Present*
+*2019 - 2026
 * **Process Optimization:** Developed web applications for KPI tracking and integrated CAD/CAM software, reducing design-to-production time.
 * **Engineering Design:** Executed GD&T analysis and 3D modeling for machining projects using SolidWorks.
 * **Cost Reduction:** Managed vendor negotiations and optimized raw material usage based on data analysis.
